@@ -1,0 +1,124 @@
+﻿@{
+    Layout = null;
+}
+@using GiftShopBUSINESS.VMs.CategoryVm
+@model CreateCategoryVm
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create category</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .form-container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+            .form-container h2 {
+                text-align: center;
+                color: #007bff;
+                margin-bottom: 30px;
+            }
+
+        .form-group label {
+            font-weight: bold;
+        }
+
+        .form-group input {
+            border-radius: 6px;
+            padding: 10px;
+            font-size: 1rem;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            padding: 10px 20px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            width: 100%;
+            border-radius: 6px;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+                border-color: #0056b3;
+            }
+
+        .form-footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+            .form-footer a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .form-footer a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+
+    <div class="form-container">
+        <h2>Create category</h2>
+        <form asp-action="Create" asp-controller="Category" method="post" enctype="multipart/form-data" id="createProductForm">
+            <div class="form-group">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter Title" required>
+            </div>
+           
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        <div class="form-footer">
+            <a href="/home">Back to Home</a>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (Optional) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+    <!-- JavaScript for additional form validation -->
+    <script>
+        document.getElementById('createProductForm').addEventListener('submit', function (event) {
+            const form = this;
+            let isValid = true;
+
+            // Check if any required field is empty
+            const requiredFields = form.querySelectorAll('[required]');
+            requiredFields.forEach(field => {
+                if (!field.value.trim()) {
+                    isValid = false;
+                    field.classList.add('is-invalid'); // Optional: Add invalid class for styling
+                } else {
+                    field.classList.remove('is-invalid');
+                }
+            });
+
+            // Prevent form submission if any required field is empty
+            if (!isValid) {
+                event.preventDefault();
+            }
+        });
+    </script>
+</body>
+</html>

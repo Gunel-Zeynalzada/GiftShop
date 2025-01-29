@@ -1,0 +1,12 @@
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\bin\Debug\net8.0\GiftShopCORE.deps.json
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\bin\Debug\net8.0\GiftShopCORE.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\bin\Debug\net8.0\GiftShopCORE.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.csproj.AssemblyReference.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.AssemblyInfoInputs.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.AssemblyInfo.cs
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.csproj.CoreCompileInputs.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\refint\GiftShopCORE.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\GiftShopCORE.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopCORE\obj\Debug\net8.0\ref\GiftShopCORE.dll

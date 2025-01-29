@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GiftShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GiftShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\0fc142f0-2556-492a-b33e-bab28db5cc5bbook.webp",
+      "PackagePath": "staticwebassets\\Uploads\\0fc142f0-2556-492a-b33e-bab28db5cc5bbook.webp"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\14da5f62-3538-46c7-adaa-6f72ad79e23crj.webp",
+      "PackagePath": "staticwebassets\\Uploads\\14da5f62-3538-46c7-adaa-6f72ad79e23crj.webp"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\19bf25f7-4c15-48c4-ad61-fef4dd653604k-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\19bf25f7-4c15-48c4-ad61-fef4dd653604k-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\204128bb-867e-476b-93f3-d386a20ff8e7ring jew.avif",
+      "PackagePath": "staticwebassets\\Uploads\\204128bb-867e-476b-93f3-d386a20ff8e7ring jew.avif"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\21911622-c3bd-46db-8c92-19ac61af931awatch2.png",
+      "PackagePath": "staticwebassets\\Uploads\\21911622-c3bd-46db-8c92-19ac61af931awatch2.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\2a733c0d-6c4d-4736-9850-b63e1638c6aagift card.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\2a733c0d-6c4d-4736-9850-b63e1638c6aagift card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\4fb4a13c-7a0e-4acd-8feb-5f0dd1fe4169beauty.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4fb4a13c-7a0e-4acd-8feb-5f0dd1fe4169beauty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\5b2a06fd-2f69-4449-bae5-c7032a4c0a12flower.png",
+      "PackagePath": "staticwebassets\\Uploads\\5b2a06fd-2f69-4449-bae5-c7032a4c0a12flower.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\61357754-d90d-477f-9e54-0bb7a25f1487bear.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\61357754-d90d-477f-9e54-0bb7a25f1487bear.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\64eb1428-56c8-412e-bc56-182ec5f14b3fairpord.png",
+      "PackagePath": "staticwebassets\\Uploads\\64eb1428-56c8-412e-bc56-182ec5f14b3fairpord.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\6c9e9c79-4fa3-4f21-9869-138102e175c2ourapp.png",
+      "PackagePath": "staticwebassets\\Uploads\\6c9e9c79-4fa3-4f21-9869-138102e175c2ourapp.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\6f32adb4-fa5b-4144-bda0-5ff3a3cbab55k-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\6f32adb4-fa5b-4144-bda0-5ff3a3cbab55k-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\7f81d658-a006-43db-ae63-b69d77e29772birthday Card.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7f81d658-a006-43db-ae63-b69d77e29772birthday Card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\8f3194d2-d381-4da9-8840-ebfdc1bd3ff9gloves.jfif",
+      "PackagePath": "staticwebassets\\Uploads\\8f3194d2-d381-4da9-8840-ebfdc1bd3ff9gloves.jfif"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\9dd5eaa3-2b6e-4ea5-aba7-e581ffa677a0ring j.avif",
+      "PackagePath": "staticwebassets\\Uploads\\9dd5eaa3-2b6e-4ea5-aba7-e581ffa677a0ring j.avif"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\bb6ca3c8-7baa-419b-93dd-c93ecf5e300eteddy bear.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bb6ca3c8-7baa-419b-93dd-c93ecf5e300eteddy bear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\bb982046-cfe9-419d-b77b-c152679dda31k-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\bb982046-cfe9-419d-b77b-c152679dda31k-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\bc6459b3-420b-47ff-8aad-b8a8edec9d3dk-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\bc6459b3-420b-47ff-8aad-b8a8edec9d3dk-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\bd685748-f4d9-4bff-a12a-5783ebbee90dsport.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\bd685748-f4d9-4bff-a12a-5783ebbee90dsport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\c1e23fb7-6844-4c16-be90-a2d0bd1a9f94flowerdecor.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c1e23fb7-6844-4c16-be90-a2d0bd1a9f94flowerdecor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\c569dba7-b5f3-446b-bf21-7ffda9576fdak-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\c569dba7-b5f3-446b-bf21-7ffda9576fdak-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\c77c4d61-dbe3-4522-adc3-7650c6f5e189bllank journal.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c77c4d61-dbe3-4522-adc3-7650c6f5e189bllank journal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\d1dbef1b-2afe-40a5-afbd-355243cb9e4cVB 2025.png",
+      "PackagePath": "staticwebassets\\Uploads\\d1dbef1b-2afe-40a5-afbd-355243cb9e4cVB 2025.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\d494a9db-85b2-490e-86c8-19bd63b48f20k-maps.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\d494a9db-85b2-490e-86c8-19bd63b48f20k-maps.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\d6413ac0-ee65-447f-9b31-e3f9f770ad5bring2.png",
+      "PackagePath": "staticwebassets\\Uploads\\d6413ac0-ee65-447f-9b31-e3f9f770ad5bring2.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\f2d32669-5ecb-4a10-bba5-81000d9313c7watch.png",
+      "PackagePath": "staticwebassets\\Uploads\\f2d32669-5ecb-4a10-bba5-81000d9313c7watch.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\Uploads\\f33f9cf3-53c9-4879-bda3-89a1d19b87b32 tedy bear.png",
+      "PackagePath": "staticwebassets\\Uploads\\f33f9cf3-53c9-4879-bda3-89a1d19b87b32 tedy bear.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\agency-img.jpg",
+      "PackagePath": "staticwebassets\\images\\agency-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\free.svg",
+      "PackagePath": "staticwebassets\\images\\free.svg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\gifts.png",
+      "PackagePath": "staticwebassets\\images\\gifts.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\high-quality.svg",
+      "PackagePath": "staticwebassets\\images\\high-quality.svg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p1.png",
+      "PackagePath": "staticwebassets\\images\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p2.png",
+      "PackagePath": "staticwebassets\\images\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p3.png",
+      "PackagePath": "staticwebassets\\images\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p4.png",
+      "PackagePath": "staticwebassets\\images\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p5.png",
+      "PackagePath": "staticwebassets\\images\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p6.png",
+      "PackagePath": "staticwebassets\\images\\p6.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p7.png",
+      "PackagePath": "staticwebassets\\images\\p7.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\p8.png",
+      "PackagePath": "staticwebassets\\images\\p8.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\purse.png",
+      "PackagePath": "staticwebassets\\images\\purse.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\saving-img.png",
+      "PackagePath": "staticwebassets\\images\\saving-img.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LegendComp\\source\\repos\\GiftShop\\GiftShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GiftShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GiftShop.props",
+      "PackagePath": "build\\GiftShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GiftShop.props",
+      "PackagePath": "buildMultiTargeting\\GiftShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GiftShop.props",
+      "PackagePath": "buildTransitive\\GiftShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

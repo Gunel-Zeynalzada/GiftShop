@@ -1,0 +1,137 @@
+﻿
+@using GiftShopCORE.Entities
+@model List<Product>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <h3>All Products</h3>
+
+            <!-- Price filter form -->
+            <form method="get" class="filter-form">
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label for="minPrice">Min Price</label>
+                        <input type="number" step="1" name="minPrice" id="minPrice" value="@ViewData["MinPrice"]" class="form-control" placeholder="Min Price">
+                    </div>
+                    <div class="col-md-4">
+                        <label for="maxPrice">Max Price</label>
+                        <input type="number" step="1" name="maxPrice" id="maxPrice" value="@ViewData["MaxPrice"]" class="form-control" placeholder="Max Price">
+                    </div>
+                    <div class="col-md-4">
+                        <label>&nbsp;</label>
+                        <button type="submit" class="btn btn-primary form-control">Apply Filter</button>
+                    </div>
+                </div>
+            </form>
+
+            <!-- Product List -->
+            <div class="row">
+                @foreach (var product in Model)
+                {
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+                        <div class="box">
+                            <a href="">
+                                <div class="img-box">
+                                    <img src="~/Uploads/@product.Image" alt="@product.Name">
+                                </div>
+                                <div class="detail-box">
+                                    <h6>@product.Name</h6>
+                                    <h6>
+                                        Price: <span>@product.Price $</span>
+                                    </h6>
+                                </div>
+                            </a>
+                            <div class="reviews-section">
+                                <a asp-action="Reviews" asp-controller="Home" asp-route-productId="@product.Id" class="review-button">
+                                    <button>Reviews</button>
+                                </a>
+                                <a asp-action="AddReview" asp-controller="Home" asp-route-productId="@product.Id" class="add-review-button">
+                                    <button>Add Review</button>
+                                </a>
+                            </div>
+                            <div class="buy-now-section">
+                                <form asp-action="CheckOut" asp-controller="Payment" method="get" class="buy-now-form">
+                                    <input type="hidden" name="productId" value="@product.Id" />
+                                    <button type="submit" class="buy-now-button">Buy Now</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .box {
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        text-align: center;
+        transition: transform 0.3s ease;
+    }
+
+        .box:hover {
+            transform: scale(1.05);
+        }
+
+    .img-box img {
+        max-width: 100%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .detail-box {
+        margin-top: 10px;
+    }
+
+        .detail-box h6 {
+            font-size: 16px;
+            margin: 5px 0;
+        }
+
+    .reviews-section button {
+        background-color: #f0f0f0;
+        border: 1px solid #ccc;
+        padding: 5px 10px;
+        border-radius: 3px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .reviews-section button:hover {
+            background-color: #e0e0e0;
+        }
+
+    .buy-now-section {
+        margin-top: 10px;
+    }
+
+    .buy-now-button {
+        display: inline-block;
+        background-color: #ff5722;
+        color: white;
+        padding: 10px 15px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .buy-now-button:hover {
+            background-color: #e64a19;
+            transform: scale(1.05);
+        }
+
+    .filter-form .row {
+        margin-bottom: 20px;
+    }
+</style>

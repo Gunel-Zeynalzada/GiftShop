@@ -1,0 +1,17 @@
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopBUSINESS.deps.json
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopBUSINESS.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopBUSINESS.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.AssemblyInfoInputs.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.AssemblyInfo.cs
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\refint\GiftShopBUSINESS.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\ref\GiftShopBUSINESS.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShopBUSINESS.csproj.AssemblyReference.cache
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopCORE.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopDAL.dll
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopCORE.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\bin\Debug\net8.0\GiftShopDAL.pdb
+C:\Users\LegendComp\source\repos\GiftShop\GiftShopBUSINESS\obj\Debug\net8.0\GiftShop.F0E1DE1B.Up2Date

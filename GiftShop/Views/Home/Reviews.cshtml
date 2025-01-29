@@ -1,0 +1,111 @@
+﻿@using GiftShopCORE.Entities
+@model List<Comment>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reviews</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Custom CSS for Reviews Section */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        h2 {
+            color: #007bff;
+            font-size: 2.5rem;
+            margin-top: 20px;
+        }
+
+        .list-group-item {
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+
+            .list-group-item:hover {
+                background-color: #f1f1f1;
+                transform: scale(1.02);
+            }
+
+            .list-group-item .date-posted {
+                color: #888;
+                font-style: italic;
+            }
+
+        .alert-info {
+            font-size: 1.2rem;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+                border-color: #0056b3;
+            }
+
+        .review-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="review-container">
+        <h2 class="text-center my-4">Reviews</h2>
+
+        @if (Model != null && Model.Any())
+        {
+            <div class="row">
+                <div class="col-12">
+                    <div class="list-group">
+                        @foreach (var comment in Model)
+                        {
+                            <div class="list-group-item">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <strong>@comment.UserName</strong>
+                                    <span class="date-posted"><em>@comment.DatePosted.ToShortDateString()</em></span>
+                                </div>
+                                <p class="mt-2">@comment.Content</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info text-center" role="alert">
+                @ViewData["NoReviewsMessage"] <!-- Display the "No reviews yet" message -->
+            </div>
+        }
+
+        <div class="text-center mt-4">
+            <a asp-action="AddReview" asp-route-productId="@(ViewBag.ProductId)" class="btn btn-primary btn-lg">Add Review</a>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS (Optional) -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>

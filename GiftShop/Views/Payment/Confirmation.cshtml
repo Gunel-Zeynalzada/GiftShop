@@ -1,0 +1,98 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Confirmation</title>
+
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f4f7fa;
+            color: #333;
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #ffffff;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h2 {
+            font-size: 32px;
+            color: #0c4160;
+        }
+
+        .success-icon {
+            font-size: 50px;
+            color: #28a745;
+            margin-bottom: 20px;
+        }
+
+        .message {
+            font-size: 20px;
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background-color: #77A1D3;
+            color: white;
+            font-size: 18px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #2d4dda;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <span class="success-icon">✔️</span>
+            <h2>Payment Successful!</h2>
+        </div>
+
+        <div class="message">
+            <p>Thank you for your purchase. Your payment has been successfully processed.</p>
+            <p>Your order is being prepared, and you will receive an email confirmation soon.</p>
+        </div>
+
+        <a href="@Url.Action("Index", "Home")" class="btn">Go to Home</a>
+
+        <div class="footer">
+            <p>If you have any questions or concerns, feel free to contact our support team.</p>
+        </div>
+    </div>
+
+</body>
+</html>

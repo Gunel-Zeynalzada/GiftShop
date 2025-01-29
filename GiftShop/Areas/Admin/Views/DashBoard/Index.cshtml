@@ -1,0 +1,124 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 2rem;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+            .section h2 {
+                margin-bottom: 1rem;
+            }
+
+        .overview-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: #007bff;
+            color: #fff;
+            padding: 1.5rem;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+            .card h3 {
+                margin: 0;
+                font-size: 2rem;
+            }
+
+            .card p {
+                margin: 0.5rem 0 0;
+                font-size: 1.2rem;
+            }
+
+        .button-container {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 0.8rem 1.5rem;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+            transition: background-color 0.3s ease;
+        }
+
+            .button:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Admin Panel</h1>
+    </header>
+
+    <div class="container">
+        <!-- Overview Section -->
+        <div class="section">
+            <h2>Overview of last month selling</h2>
+            <div class="overview-grid">
+                <!-- Total Orders in Last Month -->
+                <div class="card">
+                    <h3>@ViewData["TotalOrdersLastMonth"]</h3>
+                    <p>Total Orders</p>
+                </div>
+
+                <!-- Total Revenue in Last Month -->
+                <div class="card">
+                    <h3>@ViewData["TotalRevenueLastMonth"]</h3>
+                    <p>Total Revenue</p>
+                </div>
+
+                <!-- Top Selling Product in Last Month -->
+                <div class="card">
+                    <h3>@ViewData["TopSellingProductLastMonth"]</h3>
+                    <p>Top-Selling Product</p>
+                </div>
+            </div>
+
+            <div class="button-container">
+                <a asp-controller="Product" asp-action="Index" class="button">Manage Products</a>
+                <a asp-controller="Category" asp-action="Index" class="button">Manage Categories</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
