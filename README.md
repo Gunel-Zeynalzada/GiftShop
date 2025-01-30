@@ -18,7 +18,7 @@ It allows **users** to browse gifts, add comments, and make purchases using a **
 ## 🚀 Features
 
 ### ✅ **User Features**
-- 🛍 **Register/Login** (Users can create accounts(**During registration, use both letters and numbers for passwords.** ) & log in)  
+- 🛍 **Register/Login** (Users can create accounts(**During registration, use both letters and numbers for passwords**) & log in)  
 - 💬 **Comment System** (Users can leave reviews on gifts)  
 - 💳 **Simulated Payment** (Users can buy gifts)  
 
