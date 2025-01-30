@@ -1,2 +1,2 @@
-# ADMIN Password:admin123
-## You need to login as admin in order to see admin pnael functionalities
+## ADMIN Password:admin123
+### You need to login as an admin in order to see admin panel functionalities
